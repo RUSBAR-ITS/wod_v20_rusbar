@@ -1,0 +1,37 @@
+{
+  "id": "wod-v20-rusbar",
+  "title": "WoD v20 by RUSBAR",
+  "description": "An unofficial FoundryVTT system inspired by the World of Darkness 20th Anniversary Edition rules. Created by Ilya 'RUSBAR' Barkalov.",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Ilya \"RUSBAR\" Barkalov",
+      "url": "https://github.com/RUSBAR-ITS/wod_v20_rusbar"
+    }
+  ],
+  "esmodules": [
+    "wod-v20-rusbar.mjs"
+  ],
+  "styles": [
+    "styles/wod-v20-rusbar.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+    "lang": "ru",
+    "name": "Русский",
+    "path": "lang/ru.json"
+    }
+  ],
+  "url": "https://github.com/RUSBAR-ITS/wod_v20_rusbar",
+  "manifest": "https://raw.githubusercontent.com/RUSBAR-ITS/wod_v20_rusbar/main/system.json",
+  "download": "https://github.com/RUSBAR-ITS/wod_v20_rusbar/archive/refs/heads/main.zip"
+}
